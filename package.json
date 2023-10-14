@@ -11,8 +11,8 @@
     "start:dev": "webpack-dev-server"
   },
   "keywords": [],
-  "author": "Batan Andrei",
-  "license": "ISC",
+  "author": "Chiglintsev Semen",
+  "license": "",
   "devDependencies": {
     "css-loader": "^6.8.1",
     "css-minimizer-webpack-plugin": "^5.0.0",

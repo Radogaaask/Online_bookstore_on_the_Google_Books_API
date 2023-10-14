@@ -1,7 +1,5 @@
-# Online_bookstore_on_the_Google_Books_API
+В проекте установлены: Sass, webpack, webpack-dev-server
 
-В проекте установлены => sass, webpack, webpack-dev-server, eslinter(отключён)
+Запуск сборки через команду npm run build
 
-запуск сборки через команду npm run build
-
-запуск dev-server через команду npm run start:dev
+Запуск dev-server через команду npm run start:dev
